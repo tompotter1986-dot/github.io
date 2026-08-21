@@ -119,12 +119,21 @@ a:hover {
   <div class="gentext">
     <h1> Teaching and Outreach</h1>
     <h3>Recent Teaching<br></h3>
-    <ul>
+    <ul> 
+    <li> Currently at Vanderbilt University </li>
+  <ul>  
+      <li> Math 2810: Probability and Statistics for Engineering </li>
+      <li> Math 2300: Multivariable Calculus </li>
+    </ul>
+   
+   <li>At Cape Breton University</li>  
+   <ul>
     <li>Calculus with Precalculus (Math 1101)</li>
     <li>Calculus I (Math 1105)</li>
     <li>Stat I (Math 1109)</li>
     <li>Stat II (Math 2409)</li>
     <li>Elementary Mathematical Statistics Lab (Math 2106L)</li>
+    </ul>
     </ul>
    <h3>Outreach<br></h3>
   <p >  For several years I have gone to schools in HRM and throughout Nova Scotia to help promote math literacy and enthusiasm. 
@@ -159,14 +168,22 @@ a:hover {
   
   <div class="gentext" >
     <h1>About Me</h1>
-    <p>I love mathematics. My other interests include literature, music, walking, swimming, cooking, and baking.</p>
+    <p>I love mathematics. My other interests include literature, music, coffee, walking, swimming, cooking, and baking.</p>
   </div>
   
   <div class="gentext">
     <h1 >Contact</h1>
-    <p >E-mail: tompotter.1986@gmail.com <br>Phone: 902 478 2250<br>Office: --- <br><br></p>
+    <p >University E-mail: harry.potter@vanderbilt.edu <br>
+    <p >Non-affiliated E-mail: tompotter.1986@gmail.com <br>
+    Phone: 902 478 2250<br>Office: 1218B Stevenson Center 1 <br><br></p>
   </div>
   
+  
+ <div class="gentext">
+    <h1 >Miscellaneous</h1>
+    <p > <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=348489"> Math Genealogy Project </a> <br>
+    <br><br></p>
+  </div>
   
   </body>
 </html>
