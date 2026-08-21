@@ -126,7 +126,11 @@ a:hover {
         <img alt="picture of me" src="./images/20251111_144100.jpg" loading="lazy">
     </div>
  
-   
+ 
+     <div class="gentext" >
+    <h1> Tom Potter (Harry Thompson Potter) </h1>
+  </div>
+  
      <div class="gentext" >
     <h1> <a  href="docs/C.V. 2026.pdf" title="CV">C.V.</a> </h1>
   </div>
